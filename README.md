@@ -10,7 +10,7 @@ This course will introduce students to the roles and responsibilities of a Web D
 
 ## Web Development Technologies
 
-Skills Set:
+Skills Set List:
 
 1.HTML
 2.CSS
