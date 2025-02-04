@@ -10,10 +10,10 @@ This course will introduce students to the roles and responsibilities of a Web D
 
 ## List
 
-1.HTML
-2.CSS
-3.CLI
-4.Minimum Viable Product (MVP) 
+1. HTML
+2. CSS
+3. CLI
+4. Minimum Viable Product (MVP) 
 
 ## List
 This is an order list:
