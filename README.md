@@ -1,6 +1,6 @@
 # Intro to Web Development
 
-*Course Code*-HTTP5110 
+**Course Code**-HTTP5110 
 
 Program page link is [`Humber Web Development Program`](https://mediaarts.humber.ca/programs/web-development.html) .
 
@@ -8,9 +8,7 @@ Program page link is [`Humber Web Development Program`](https://mediaarts.humber
 
 This course will introduce students to the roles and responsibilities of a Web Developer.
 
-## Web Development Technologies
-
-Skills Set:
+## Skill Set List
 
 1.HTML
 2.CSS
