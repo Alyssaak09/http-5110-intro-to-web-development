@@ -1,2 +1,3 @@
-# http-5110-intro-to-web-development
-Class files from HTTP5110.
+# HTTP5110 Intro to Web Development
+
+Humber College Web Development program page: [Humber Web Development Program] (https://mediaarts.humber.ca/programs/web-development.html)
