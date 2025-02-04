@@ -13,4 +13,5 @@ This course will introduce students to the roles and responsibilities of a Web D
 1. HTML
 2. CSS
 3. CLI
-4. Minimum Viable Product (MVP) 
+4. Minimum Viable Product (MVP)
+5. Visual Studio Code
