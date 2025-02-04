@@ -8,7 +8,7 @@ Program page link is [`Humber Web Development Program`](https://mediaarts.humber
 
 This course will introduce students to the roles and responsibilities of a Web Developer.
 
-## List
+## Skills Set
 
 1. HTML
 2. CSS
